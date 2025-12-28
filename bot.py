@@ -73,9 +73,9 @@ sɪᴢᴇ: {filesize}
 ᴅᴜʀᴀᴛɪᴏɴ: {duration}
 ꜰɪʟᴇɴᴀᴍᴇ: {filename}
 
-➲ /set_caption: ᴛᴏ sᴇᴛ ᴀ ᴄᴜsᴛᴏᴍ ᴄᴀᴘᴛɪᴏɴ.
-➲ /see_caption: ᴛᴏ ᴠɪᴇᴡ ʏᴏᴜʀ ᴄᴜsᴛᴏᴍ ᴄᴀᴘᴛɪᴏɴ.
-➲ /del_caption: ᴛᴏ ᴅᴇʟᴇᴛᴇ ʏᴏᴜʀ ᴄᴜsᴛᴏᴍ ᴄᴀᴘᴛɪᴏɴ.
+➲ /set_caption: ᴛᴏ sᴇᴛ ᴀ ᴄᴜsᴛᴏᴍ ᴄᴀᴘᴛɪᴏɴ.AMD
+➲ /see_caption: ᴛᴏ ᴠɪᴇᴡ ʏᴏᴜʀ ᴄᴜsᴛᴏᴍ ᴄᴀᴘᴛɪᴏɴ.AMD
+➲ /del_caption: ᴛᴏ ᴅᴇʟᴇᴛᴇ ʏᴏᴜʀ ᴄᴜsᴛᴏᴍ ᴄᴀᴘᴛɪᴏɴ.AMD
 
 » ꜰᴏʀ ᴇx:- /set_caption ꜰɪʟᴇ ɴᴀᴍᴇ: {filename}"""
 
@@ -106,12 +106,12 @@ sɪᴢᴇ: {filesize}
     META_TXT = """<b><u>» How to Set Metadata</u></b>
 
 <b>Available metadata commands:</b>
-➲ /settitle - Set the title metadata
-➲ /setauthor - Set the author metadata
-➲ /setartist - Set the artist metadata  
-➲ /setaudio - Set the audio track title
-➲ /setsubtitle - Set the subtitle track title
-➲ /setvideo - Set the video track title
+➲ /settitle - Set the title metadata AMD
+➲ /setauthor - Set the author metadata AMD
+➲ /setartist - Set the artist metadata AMD
+➲ /setaudio - Set the audio track title AMD
+➲ /setsubtitle - Set the subtitle track title AMD
+➲ /setvideo - Set the video track title AMD
 
 <b>Example:</b>
 <code>/settitle Encoded by @Codeflix_Bots</code>
